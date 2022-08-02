@@ -1,5 +1,5 @@
 '''
-@author : 孙宇欣
+@author : 溺水的饼干
 @create_time : 2022/7/29 - 17:00
 @function : 批量挂接文件的实现
 @version : 2.1_将所有按钮封装在类里面，实现可视化GUI窗口弹窗顺序顺序正常化
