@@ -1,4 +1,4 @@
-# bulk-files-renamed-and-copy-to-typical-folder
+# bulk-files-renamed-and-copy-to-chosen-folder
 This program can read the data in excel, and then according to the data of excel renamed and copy themselves to the order folder.
 
 This python needs to configure the environmrnt, the packs are imported are: xlrd(version:1.2.0),pandas,openpyxl
